@@ -13,7 +13,7 @@ header('Content-Type: text/html; charset=utf-8');
 session_start();
 
 //引入全局函数库（自定义）
-require dirname(__FILE__).'/includes/global.func.php';
+// require dirname(__FILE__).'/includes/global.func.php';
 
 //检验验证码
 if ($_GET['action'] == 'verification') {
