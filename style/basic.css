@@ -1,0 +1,24 @@
+body{
+	width: 300px;
+	margin:180px auto;
+}
+
+.code {
+	width:60px;
+	margin-bottom: 20px;
+}
+/*#textcode dl dd input*/
+.submit {
+	width:60px;
+	height:19px;
+	border:1px dashed #333;
+	background:#fff;
+	cursor:pointer;
+	margin-left: 140px;
+}
+
+img#codeimg {
+	position:relative;
+	top:6px;
+	cursor:pointer;
+}
